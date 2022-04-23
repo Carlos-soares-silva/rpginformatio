@@ -1,0 +1,58 @@
+*{
+  margin: 0;
+  padding: 0;
+  color: rgb(255, 255, 255);
+}
+body{
+  background-color: rgb(39, 37, 37);
+}
+header{
+  text-align: center;
+  margin-top: 10px;
+}
+.img_famile{
+text-align: center;
+margin-top: 40px;
+}
+img{
+  width: 50%;
+  border: 3px dashed #CCC;
+}
+.histori{
+  width: 60%;
+  text-align: justify;
+  margin-left: 20%;
+  margin-top: 20px;
+}
+.linha{
+  margin-top: 40px;
+  border: 0;
+  border-top: medium double #CCC;
+  height: 1px;
+  overflow: visible;
+  padding: 0;
+  color: #CCC;
+  text-align: center;
+}
+.end_histori{
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 10%;
+  max-width: 80%;
+  font-size: 20px;
+}
+.linha_2{
+  margin-top: 40px;
+  border: 0;
+  border-top: medium double #CCC;
+  height: 1px;
+  overflow: visible;
+  padding: 0;
+  color: #CCC;
+  text-align: center;
+  font-size: 20px;
+}
+footer{
+  text-align: center;
+  margin-top: 30px;
+}
